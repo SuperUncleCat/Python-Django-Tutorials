@@ -1,1 +1,1 @@
-# Python-Django-Tutorials
+# Python-Django-Tutorials-Blog
